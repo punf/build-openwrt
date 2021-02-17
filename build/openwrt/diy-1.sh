@@ -14,6 +14,5 @@
 git clone https://github.com/281677160/openwrt-package package/luci-app-smartdns
 git clone https://github.com/281677160/openwrt-package package/luci-app-dnsfilter
 git clone https://github.com/281677160/openwrt-package package/luci-app-tencentddns
-git clone https://github.com/281677160/openwrt-package package/luci-app-socat
 git clone https://github.com/xiaorouji/openwrt-passwall package/luci-app-passwall
 git clone https://github.com/fw876/helloworld package/luci-app-ssr-plus
